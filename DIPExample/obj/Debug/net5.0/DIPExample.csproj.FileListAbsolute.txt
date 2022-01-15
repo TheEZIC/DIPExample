@@ -1,0 +1,16 @@
+F:\Users\sasha\DIPExample\DIPExample\DIPExample\bin\Debug\net5.0\DIPExample.exe
+F:\Users\sasha\DIPExample\DIPExample\DIPExample\bin\Debug\net5.0\DIPExample.deps.json
+F:\Users\sasha\DIPExample\DIPExample\DIPExample\bin\Debug\net5.0\DIPExample.runtimeconfig.json
+F:\Users\sasha\DIPExample\DIPExample\DIPExample\bin\Debug\net5.0\DIPExample.runtimeconfig.dev.json
+F:\Users\sasha\DIPExample\DIPExample\DIPExample\bin\Debug\net5.0\DIPExample.dll
+F:\Users\sasha\DIPExample\DIPExample\DIPExample\bin\Debug\net5.0\ref\DIPExample.dll
+F:\Users\sasha\DIPExample\DIPExample\DIPExample\bin\Debug\net5.0\DIPExample.pdb
+F:\Users\sasha\DIPExample\DIPExample\DIPExample\obj\Debug\net5.0\DIPExample.csproj.AssemblyReference.cache
+F:\Users\sasha\DIPExample\DIPExample\DIPExample\obj\Debug\net5.0\DIPExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\sasha\DIPExample\DIPExample\DIPExample\obj\Debug\net5.0\DIPExample.AssemblyInfoInputs.cache
+F:\Users\sasha\DIPExample\DIPExample\DIPExample\obj\Debug\net5.0\DIPExample.AssemblyInfo.cs
+F:\Users\sasha\DIPExample\DIPExample\DIPExample\obj\Debug\net5.0\DIPExample.csproj.CoreCompileInputs.cache
+F:\Users\sasha\DIPExample\DIPExample\DIPExample\obj\Debug\net5.0\DIPExample.dll
+F:\Users\sasha\DIPExample\DIPExample\DIPExample\obj\Debug\net5.0\ref\DIPExample.dll
+F:\Users\sasha\DIPExample\DIPExample\DIPExample\obj\Debug\net5.0\DIPExample.pdb
+F:\Users\sasha\DIPExample\DIPExample\DIPExample\obj\Debug\net5.0\DIPExample.genruntimeconfig.cache
